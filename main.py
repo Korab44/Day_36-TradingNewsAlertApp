@@ -12,6 +12,7 @@ NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 alpha_api_key = os.getenv("ALPHA_KEY")
 news_api_key = os.getenv("NEWS_KEY")
 
+
 twilio_sid = os.getenv("TWILIO_SID")
 twilio_auth_token = os.getenv("TWILIO_AUTH")
 
